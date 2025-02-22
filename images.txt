@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 homeassistant/home-assistant
 homebridge/homebridge
+portainer/portainer
